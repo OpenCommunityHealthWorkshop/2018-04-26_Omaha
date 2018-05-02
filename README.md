@@ -7,12 +7,12 @@ The workshop explored issues related to the health and sustainability of open co
 Ether Pad Breakout Session Names:
 https://public.etherpad-mozilla.org
 
-Morning OSS
-Morning Citizen Science
-Afternoon Group A
-Afternoon Group B
-Day 2 OSS
-Day 2 Citizen Science
+* Morning OSS
+* Morning Citizen Science
+* Afternoon Group A
+* Afternoon Group B
+* Day 2 OSS
+* Day 2 Citizen Science
 
 Google Drive Folder:
 https://drive.google.com/drive/folders/17YCW6ys6p3z4vDJWezaPOV-vkKroDdtO
